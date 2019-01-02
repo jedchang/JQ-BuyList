@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+  <title>JQ-BuyList</title>
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.3.1/css/all.css" integrity="sha384-mzrmE5qonljUremFsqc01SB46JvROS7bZs3IO2EmfFsd15uHvIt+Y8vEf7N7fWAU"
+    crossorigin="anonymous" />
+  <link href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700,900" rel="stylesheet" />
+  <link rel="stylesheet" href="./css/style.css" />
+</head>
+
+<body>
+  <div id="buy-list">
+    <div class="top-box">
+      <div class="icon"><i class="fas fa-shopping-cart"></i></div>
+      <h1>Shopping List</h1>
+      <p>Simple feature that manage your shopping lists</p>
+    </div>
+
+    <div class="content">
+      <div id="title-area" class="buy-item">
+        <div class="group">
+          <input type="text" id="inputName" placeholder="Item Name" />
+        </div>
+        <div class="group">
+          <input type="text" id="inputPrice" placeholder="Price" />
+        </div>
+        <span class="add-btn"><i class="fas fa-plus"></i></span>
+      </div>
+      <div id="items-list"></div>
+    </div>
+  </div>
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.js"></script>
+  <script src="./js/JQ-BuyList.js"></script>
+</body>
+
+</html>
