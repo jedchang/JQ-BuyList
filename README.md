@@ -1,4 +1,6 @@
-# JQ-BuyList-exercise
+# JQ-BuyList-exercise 
+![image](https://img.shields.io/badge/jQuery-exercise-brightgreen.svg)
+
 jQuery Buy List Exercise
 
 [DEMO](https://jedchang.github.io/JQ-BuyList-exercise/)
