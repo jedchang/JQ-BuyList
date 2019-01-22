@@ -1,7 +1,7 @@
 # JQ-BuyList-exercise 
 ![image](https://img.shields.io/badge/jQuery-exercise-brightgreen.svg)
 
-jQuery Buy List Exercise
+使用 replace()、append()、attr()、val()、trim()、push()、splice() 等
 
 [DEMO](https://jedchang.github.io/JQ-BuyList-exercise/)
 
