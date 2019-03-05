@@ -9,6 +9,4 @@
 - **`push()`** - 在陣列最後方新增元素，並傳回且插入
 - **`splice()`** - 為一個陣列刪除並且新增陣列元素
 
-[DEMO](https://jedchang.github.io/JQ-BuyList-exercise/)
-
 ![image](https://github.com/jedchang/JQ-BuyList-exercise/blob/master/preview.jpg)
