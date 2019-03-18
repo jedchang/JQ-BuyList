@@ -1,9 +1,9 @@
 # JQ-BuyList-exercise
 
-![image](https://img.shields.io/badge/JavaScript-exercise-brightgreen.svg)
+![image](https://img.shields.io/badge/Jquery-exercise-brightgreen.svg)
 ![image](https://img.shields.io/badge/SASS-exercise-ff69b4.svg)
 
-![images](https://github.com/jedchang/toDoList/blob/master/preview.jpg)
+![images](https://github.com/jedchang/JQ-BuyList/tree/master)
 
 ### 動態產出畫面
 
