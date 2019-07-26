@@ -2,7 +2,7 @@
 
 ![image](https://img.shields.io/badge/jQuery-exercise-0769AD.svg) ![image](https://img.shields.io/badge/SCSS-exercise-ff69b4.svg)
 
-![images](https://github.com/jedchang/JQ-BuyList/blob/master/preview.jpg)
+![image](https://github.com/jedchang/JQ-BuyList/blob/master/preview.jpg)
 
 ### 動態產出畫面
 
